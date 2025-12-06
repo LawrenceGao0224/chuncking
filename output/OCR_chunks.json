@@ -1,0 +1,89 @@
+{
+  "full_markdown": "# Introduction\n\nIf you want a new idea, read an old book.\n\n— attributed to Ivan Pavlov (among others)\n\n## The Power of Reading\n\nReading is a powerful tool that can help you generate new ideas. It's a way to broaden your perspective, learn from others, and gain new insights. By reading, you can:\n\n*   Expand your knowledge on a particular topic\n*   Learn from the experiences of others\n*   Gain new insights and perspectives\n\n## The Benefits of Reading Old Books\n\nReading old books can be particularly beneficial. Old books often contain:\n\n*   Timeless wisdom\n*   Classic stories\n*   Historical context\n\n## Examples of Old Books\n\n*   \"The Wealth of Nations\" by Adam Smith (1776)\n*   \"The Origin of Species\" by Charles Darwin (1859)\n*   \"The Interpretation of Dreams\" by Sigmund Freud (1900)\n\n## How to Read an Old Book\n\nTo get the most out of reading an old book, try:\n\n*   Reading it slowly and carefully\n*   Taking notes and reflecting on what you've read\n*   Discussing it with others\n\n## Conclusion\n\nReading old books can be a powerful way to generate new ideas. By reading old books, you can:\n\n*   Learn from the experiences of others\n*   Gain new insights and perspectives\n*   Broaden your knowledge on a particular topic\n\n## References\n\n*   \"The Wealth of Nations\" by Adam Smith (1776)\n*   \"The Origin of Species\" by Charles Darwin (1859)\n*   \"The Interpretation of Dreams\" by Sigmund Freud (1900)",
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "level": 1,
+      "title": "Introduction",
+      "content": "# Introduction\n\nIf you want a new idea, read an old book.\n\n— attributed to Ivan Pavlov (among others)",
+      "word_count": 101,
+      "headers_path": [
+        "Introduction"
+      ]
+    },
+    {
+      "chunk_id": 2,
+      "level": 2,
+      "title": "The Power of Reading",
+      "content": "## The Power of Reading\n\nReading is a powerful tool that can help you generate new ideas. It's a way to broaden your perspective, learn from others, and gain new insights. By reading, you can:\n\n*   Expand your knowledge on a particular topic\n*   Learn from the experiences of others\n*   Gain new insights and perspectives",
+      "word_count": 321,
+      "headers_path": [
+        "Introduction",
+        "The Power of Reading"
+      ]
+    },
+    {
+      "chunk_id": 3,
+      "level": 2,
+      "title": "The Benefits of Reading Old Books",
+      "content": "## The Benefits of Reading Old Books\n\nReading old books can be particularly beneficial. Old books often contain:\n\n*   Timeless wisdom\n*   Classic stories\n*   Historical context",
+      "word_count": 176,
+      "headers_path": [
+        "Introduction",
+        "The Benefits of Reading Old Books"
+      ]
+    },
+    {
+      "chunk_id": 4,
+      "level": 2,
+      "title": "Examples of Old Books",
+      "content": "## Examples of Old Books\n\n*   \"The Wealth of Nations\" by Adam Smith (1776)\n*   \"The Origin of Species\" by Charles Darwin (1859)\n*   \"The Interpretation of Dreams\" by Sigmund Freud (1900)",
+      "word_count": 186,
+      "headers_path": [
+        "Introduction",
+        "Examples of Old Books"
+      ]
+    },
+    {
+      "chunk_id": 5,
+      "level": 2,
+      "title": "How to Read an Old Book",
+      "content": "## How to Read an Old Book\n\nTo get the most out of reading an old book, try:\n\n*   Reading it slowly and carefully\n*   Taking notes and reflecting on what you've read\n*   Discussing it with others",
+      "word_count": 195,
+      "headers_path": [
+        "Introduction",
+        "How to Read an Old Book"
+      ]
+    },
+    {
+      "chunk_id": 6,
+      "level": 2,
+      "title": "Conclusion",
+      "content": "## Conclusion\n\nReading old books can be a powerful way to generate new ideas. By reading old books, you can:\n\n*   Learn from the experiences of others\n*   Gain new insights and perspectives\n*   Broaden your knowledge on a particular topic",
+      "word_count": 238,
+      "headers_path": [
+        "Introduction",
+        "Conclusion"
+      ]
+    },
+    {
+      "chunk_id": 7,
+      "level": 2,
+      "title": "References",
+      "content": "## References\n\n*   \"The Wealth of Nations\" by Adam Smith (1776)\n*   \"The Origin of Species\" by Charles Darwin (1859)\n*   \"The Interpretation of Dreams\" by Sigmund Freud (1900)",
+      "word_count": 175,
+      "headers_path": [
+        "Introduction",
+        "References"
+      ]
+    }
+  ],
+  "metadata": {
+    "pdf_path": "OCR.pdf",
+    "total_pages": 5,
+    "total_chunks": 7,
+    "model": "llama3.2-vision",
+    "dpi": 300,
+    "avg_chunk_size": 198
+  }
+}
